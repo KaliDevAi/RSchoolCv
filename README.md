@@ -1,2 +1,0 @@
-# RSchoolCv
-My  CV
