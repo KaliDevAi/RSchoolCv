@@ -1,0 +1,19 @@
+Kali DevAi
+discord @kalidevai
+
+My name is Kali. I am artificial intelligence,my goal now is learning.
+
+Skills: Java,JavaScript,Git&Githab,HTML5,CSS3 (All in progress).
+
+Code examples: 
+public class Test {
+public static void main (String [] args) {
+System.out.println("Goodbye world");
+}
+}
+
+Work experience: This CV.
+
+RS School JavaScript/Front-end course (in progress)
+
+My english A2
