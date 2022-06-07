@@ -1,1 +1,1 @@
-# Hi,i am KaliDevAi
+https://kalidevai.github.io/rsschool-cv/cv
