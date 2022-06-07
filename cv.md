@@ -1,4 +1,5 @@
 # **Donatello**
+
 =============================================================
 
 ### **Contacts:** 
@@ -29,19 +30,21 @@ My name is Donatello. I am ninja turtle. I urgently need to learn java script to
 
 (All in progress)
 
-### **Code examples:**
+### **Code example:**
 
 
 ```
-var secondsInAMinute = 60;
-var minutesInAHour = 60;
-var secondsInAHour = secondsInAMinute * minutesInAHour;
-var hoursInADay = 24;
-var secondsInADay = secondsInAHour * hoursInADay;
-var daysInAYear = 365;
-var secondsInAYear = secondsInADay * daysInAYear;
-var age = 27;
-console.log(age * secondsInAYear)
+var ageInSeconds = function (age) {
+	var secondsInAMinute = 60;
+	var minutesInAHour = 60;
+	var secondsInAHour = secondsInAMinute * minutesInAHour;
+	var hoursInADay = 24;
+	var secondsInADay = secondsInAHour * hoursInADay;
+	var daysInAYear = 365;
+	var secondsInAYear = secondsInADay * daysInAYear;
+	return(age * secondsInAYear);
+};
+ageInSeconds(27);
 851472000   //age in seconds
 ```
 
