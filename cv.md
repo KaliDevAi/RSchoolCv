@@ -1,13 +1,33 @@
-Name: Donatello
-Contacts: discord @kalidevai
+**# Donatello**
+------------------------------------------------------------------------------------------
 
-About me
-My name is Donatello. I am ninja turtle.I urgently need to learn java script to save my teacher and defeat the Cyber-Shredder.
+**### Contacts:** 
+------------------------------------------------------------------------------------------
 
-Skills: Java,JavaScript,Git&Githab,HTML5,CSS3 (All in progress).
+* **Discord** @kalidevai
+* --Telegram-- @QuantumGlitch
+* --Phone-- +7654321000
 
-Code examples:
 
+**### About me**
+------------------------------------------------------------------------------------------
+
+My name is Donatello. I am ninja turtle. I urgently need to learn java script to save my teacher and defeat the Cyber-Shredder.
+
+**### Skills:**
+------------------------------------------------------------------------------------------
+
+*Java
+*JavaScript
+*Git\Githab
+*HTML5
+*CSS3 
+(All in progress)
+
+**### Code examples:**
+------------------------------------------------------------------------------------------
+
+```
 var secondsInAMinute = 60;
 var minutesInAHour = 60;
 var secondsInAHour = secondsInAMinute * minutesInAHour;
@@ -18,10 +38,20 @@ var secondsInAYear = secondsInADay * daysInAYear;
 var age = 27;
 console.log(age * secondsInAYear)
 851472000   //age in seconds
+```
 
+**### Work experience:**
+------------------------------------------------------------------------------------------
 
-Work experience: This CV.
+This CV.
 
-Education: RS School JavaScript/Front-end course (in progress)
+**### Education:**
+------------------------------------------------------------------------------------------
 
-English level: A2
+RS School JavaScript/Front-end course (in progress)
+
+**### Language:**
+------------------------------------------------------------------------------------------
+
+**Russian:** Native speaker
+**English level:** A2
