@@ -15,5 +15,20 @@
 
 <body>
   <script src="js/scripts.js"></script>
+  
+  <pre><code>
+  var ageInSeconds = function (age) {
+	var secondsInAMinute = 60;
+	var minutesInAHour = 60;
+	var secondsInAHour = secondsInAMinute * minutesInAHour;
+	var hoursInADay = 24;
+	var secondsInADay = secondsInAHour * hoursInADay;
+	var daysInAYear = 365;
+	var secondsInAYear = secondsInADay * daysInAYear;
+	return(age * secondsInAYear);
+};
+ageInSeconds(27);
+851472000   //age in seconds
+</code></pre>
 </body>
 </html>
