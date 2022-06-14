@@ -33,6 +33,7 @@ body {
 	  padding-left: 50px;
 	  padding-right: 50px;
 	  padding-top: 50px;
+	  align-items: center;
   }
   .container {
     max-width: 1440px;
@@ -123,7 +124,11 @@ padding-left: 30px;
 .rss {
   width: 121px;
   height: 45px;
-  background-image: ./assets/svg/logo.png;
+  padding-left:
   background-size: contain;
   background-repeat: no-repeat;
+}
+
+.picture-footer {
+	padding-left: 1170px;
 }
